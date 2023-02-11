@@ -5,8 +5,7 @@
   "author": "Yusuf-Uluc",
   "license": "MIT",
   "files": [
-    "dist",
-    "src"
+    "dist"
   ],
   "main": "./dist/index.js",
   "module": "./dist/index.js",
